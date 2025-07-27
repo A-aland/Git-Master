@@ -2,4 +2,4 @@ console.log('Starting the application...');
 
 
 console.log('this is file');
-console.log("this is file 2");
+console.log('this is file 2');
